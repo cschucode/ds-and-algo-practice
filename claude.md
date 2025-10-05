@@ -30,9 +30,11 @@ Contains:
 
 ### test.js
 Contains:
-- Test suite with multiple test cases
-- Helper functions (if needed for data structures)
+- Test suite using Node's built-in `assert` module
+- Multiple test cases with try/catch blocks
+- Helper functions (if needed for data structures like linked lists, trees, etc.)
 - Edge cases and example cases from problem.md
+- Console output showing test results with ✓ or ✗
 
 ## Example Command
 
