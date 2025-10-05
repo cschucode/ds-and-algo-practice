@@ -40,6 +40,7 @@ What if the inputs contain Unicode characters? How would you adapt your solution
  */
 function isAnagram(s, t) {
     // Your code here
+
 }
 
 module.exports = isAnagram;
