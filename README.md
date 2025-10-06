@@ -1,4 +1,4 @@
-# Technical Interview Prep
+# Data Structure and Algorithm Practice
 
 A structured collection of algorithm challenges to prepare for 60-minute technical interviews.
 
